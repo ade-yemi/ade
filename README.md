@@ -1,1 +1,1 @@
-To access the content from my GitHub, click on the code button and then click 'Download Zip'. Extract the zip using either WinRAR or 7-Zip. You have all the files 
+These are some labs I worked on during my one year of hands-on. You will also find projects worked on during my Digital Innovators Fellowship. To access the content from my GitHub, click on the code button and then click 'Download Zip'. Extract the zip using either WinRAR or 7-Zip. You have all the files 
